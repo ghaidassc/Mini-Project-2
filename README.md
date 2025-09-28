@@ -25,7 +25,7 @@ Menu login untuk admin dan user/pengguna. jika salah memasukkan username/passwor
 
 
 
-#Admin
+# Admin
 Admin akan ditampilkan menu seperti dibawah ini.
 
 <img width="548" height="197" alt="Cuplikan layar 2025-09-28 104152" src="https://github.com/user-attachments/assets/3345582e-9813-4bb1-ade7-84f3e5a11a9f" />
@@ -53,6 +53,7 @@ Pada kondisi ini, admin menginput 4 pada menu pilihan, yaitu hapus barang. Admin
 
 # Kondisi 5.
 <img width="438" height="390" alt="Cuplikan layar 2025-09-28 112939" src="https://github.com/user-attachments/assets/7bb48fa4-1d18-43eb-9246-f294ee9154a6" />
+
 Pada kondisi ini, admin menginput 5, yaitu menu logout. Maka admin akan di logoutkan dari program. Kemudian disini diberikan pilihan lagi, apakah admin ingin login lagi atau tidak. Jika admin memilih untuk login lagi, maka admin diminta untuk memasukkan username dan password kembali. Dan jika tidak, maka program diberhentikan.
 
 
