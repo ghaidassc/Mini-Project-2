@@ -20,6 +20,8 @@ Pertama-tama, kamu akan diarahkan untuk login menggunakan username dan password.
 <img width="449" height="112" alt="Cuplikan layar 2025-09-28 111120" src="https://github.com/user-attachments/assets/1f0d8653-507c-481c-901b-689b63430a98" />
 Menu login untuk admin dan user/pengguna. jika salah memasukkan username/password, maka akan menghasilkan output login gagal dan diminta untuk memasukkan username dan password lagi. Jika sudah berhasil login, maaka akan ada output Selamat datang yang berbeda antara admin dan user/pengguna.
 
+
+
 #Admin
 Admin akan ditampilkan menu seperti dibawah ini.
 <img width="548" height="197" alt="Cuplikan layar 2025-09-28 104152" src="https://github.com/user-attachments/assets/3345582e-9813-4bb1-ade7-84f3e5a11a9f" />
