@@ -8,7 +8,7 @@ Sistem Daftar Belanja Untuk Keperluan E-Commerce.
 Program ini dibuat dan bisa digunakan oleh admin dan user/pengguna. Sebagai admin, kamu dapat menambahkan barang baru, mengedit jumlah barang tersedia, melihat/mengecek barang yang masih tersedia, dan menghapus barang yang ingin dihapus. sSebagai user/pengguna, kamu dapat menambahkan barang ke keranjang dan melihat barang yang tersedia.
 
 # Flowchart
-<img width="2230" height="1603" alt="flowMinpro2 fixx" src="https://github.com/user-attachments/assets/a11c8de2-1420-4220-bfd6-88e28e843d9f" />
+<img width="2230" height="1603" alt="flowMinpro2 fixx" src="https://github.com/user-attachments/assets/0b2947ec-e4dc-4919-b55d-891813e9b7a4" />
 
 
 
