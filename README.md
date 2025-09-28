@@ -56,4 +56,24 @@ Pada kondisi ini, admin menginput 4 pada menu pilihan, yaitu hapus barang. Admin
 
 Pada kondisi ini, admin menginput 5, yaitu menu logout. Maka admin akan di logoutkan dari program. Kemudian disini diberikan pilihan lagi, apakah admin ingin login lagi atau tidak. Jika admin memilih untuk login lagi, maka admin diminta untuk memasukkan username dan password kembali. Dan jika tidak, maka program diberhentikan.
 
+# User/pengguna.
+User/pengguna akan ditampilkan menu seperti dibawah ini.
+
+<img width="410" height="188" alt="Cuplikan layar 2025-09-28 113858" src="https://github.com/user-attachments/assets/1e7d189d-b92e-4213-a55a-6843b807c5a5" />
+
+# Kondisi 1.
+<img width="450" height="294" alt="Cuplikan layar 2025-09-28 114003" src="https://github.com/user-attachments/assets/ec320234-d9e8-4576-a654-99c01317ef98" />
+
+Pada kondisi ini, user menginput 1 pada pilihan menu. Maka output yang muncul adalah daftar barang yang tersedia. Selanjutnya, terdapat pilihan bahwa ingin melanjutkan dengan memilih menu lain atau tidak. Jika ya, maka admin akan diarahkan untuk memilih menu lain lagi. Dan jika tidak, maka program diselesaikan.
+
+# Kondisi 2.
+<img width="430" height="339" alt="Cuplikan layar 2025-09-28 114526" src="https://github.com/user-attachments/assets/714905a9-1d04-4a03-b9a3-a6ff81a0d3df" />
+
+Setelah user melihat produk tersedia, kemudian user menginput 2 pada pilihan menu, yaitu tambah produk. Disini, user dapat menambahkan barang ke keranjang user. Selanjutnya, terdapat pilihan bahwa ingin melanjutkan dengan memilih menu lain atau tidak. Jika ya, maka admin akan diarahkan untuk memilih menu lain lagi. Dan jika tidak, maka program diselesaikan.
+
+# Kondisi 3.
+<img width="434" height="273" alt="Cuplikan layar 2025-09-28 114938" src="https://github.com/user-attachments/assets/5b531420-ae41-4661-a5c7-2db47a10fa54" />
+
+Pada kondisi ini, user menginput 3, yaitu menu logout. Maka user akan di logoutkan dari program. Kemudian disini diberikan pilihan lagi, apakah user ingin login lagi atau tidak. Jika uder memilih untuk login lagi, maka user diminta untuk memasukkan username dan password kembali. Dan jika tidak, maka program diberhentikan.
+
 
